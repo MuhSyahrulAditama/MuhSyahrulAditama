@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MuhSyahrulAditama
 - 👀 I’m interested in frontend web Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -- instagram aditamasyahrul
+- 💞️ I’m looking to collaborate on Web Application Development
+- 📫 How to reach me -- instagram aditama_go
 
 <!---
 MuhSyahrulAditama/MuhSyahrulAditama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
